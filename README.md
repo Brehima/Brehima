@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brehima
-- 👀 I’m interested in the field of cybersecurity especially offensive security
-- 🌱 I have an engineering degree and I’m currently pursuing a master degree in cybersecurity
-- 💞️ I’m looking forward to collaborating on subjects related to cybersecurity mainly but I am always open to new challenges
+- 👀 I’m interested in the field of cybersecurity, especially offensive security
+- 🌱 I have an engineering degree and am currently a tactical threat analyst focusing on threat hunting/detection.
+- 💞️ I’m looking forward to collaborating on subjects related to cybersecurity (RedTeam/BlueTeam)
 - 📫 You can reach me on Email at brehima.coulibaly@esprit.tn or on Twitter at @c0u7ibaly 
 
 <!---
